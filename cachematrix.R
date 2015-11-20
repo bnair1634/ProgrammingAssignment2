@@ -18,8 +18,6 @@ makeCacheMatrix <- function(x = matrix()) {
        getInverse = getInverse)
 }
 
-x <- matrix(c(1,2,3,0,1,4,5,6,0), nrow=3)
-y <-y <- makeCacheMatrix(x)
 
 ## Write a short comment describing this function
 
